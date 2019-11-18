@@ -1,0 +1,25 @@
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+li
+{
+padding-bottom:4px;
+margin-bottom:10px;
+}
+a
+{
+background-color:rgb(165,165,165);
+color:red;
+text-decoration:none;
+padding:4px;
+
+border:2px solid green;
+}
+a:hover
+{
+background:lawngreen;
+color:white;
+}
